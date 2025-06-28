@@ -1,8 +1,8 @@
 
 # Sales Tracker GUI App – Python, Tkinter, SQLite
 
-A simple desktop-based Sales Tracker built with **Python**, **Tkinter**, **SQLite**, and **TkCalendar**. This application helps users manage and analyze sales, cost, and profit/loss data through an intuitive graphical interface.
-
+Developed a full-featured desktop app to manage and analyze sales data.
+✔ Add/Edit sales ✔ Real-time profit/loss calculation ✔ Filter by month/year ✔ Export to CSV ✔ Treeview table view ✔ Summary and visual analysis
 ---
 
 ## ✨ Features
